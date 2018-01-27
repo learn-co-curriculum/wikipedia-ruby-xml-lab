@@ -72,17 +72,6 @@ xml = <<-XML
 </root>
 XML
 
-
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
 @doc = Nokogiri::XML(xml)
 @doc.xpath("//character")
 # => ["<character>Al Bundy</character>",
