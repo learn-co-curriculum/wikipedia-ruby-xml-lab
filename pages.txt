@@ -1,0 +1,80 @@
+13, AfghanistanHistory
+14, AfghanistanGeography
+15, AfghanistanPeople
+18, AfghanistanCommunications
+19, AfghanistanTransportations
+20, AfghanistanMilitary
+21, AfghanistanTransnationalIssues
+241, AfricanAmericanPeople
+276, AmericanFootball
+299, AnAmericanInParis
+309, An American in Paris
+615, American Football Conference
+651, America the Beautiful
+659, American National Standards Institute
+737, Afghanistan
+771, American Revolutionary War
+813, Afghanistan/History
+814, Afghanistan/Geography
+815, Afghanistan/Government
+816, Afghanistan/People
+817, Afghanistan/Economy
+818, Afghanistan/Communications
+820, Afghanistan/Military
+821, Afghanistan/Transnational Issues
+822, Afghanistan (1911 Encyclopedia)
+863, American Civil War
+869, American Film Institute
+966, American shot
+1109, Geography of American Samoa
+1110, Demographics of American Samoa
+1111, Politics of American Samoa
+1112, Economy of American Samoa
+1114, Transportation in American Samoa
+1116, American Samoa/Military
+1136, America's National Game
+1201, American Sign Language
+1241, American (word)
+1338, Americans with Disabilities Act of 1990
+1339, Americans with Disabilities Act of 1990/Findings and Purposes
+1340, Americans with Disabilities Act of 1990/Definitions
+1341, Americans with Disabilities Act of 1990/Title III
+1558, American Chinese cuisine
+1833, American bias
+1890, American English
+1902, American Airlines Flight 77
+1903, American Airlines flight 77
+1904, American Airlines flight 11
+1950, American Civil Liberties Union
+1973, American Revolution
+2011, Comparison of American and British English
+2043, Hostility towards America
+2154, African American
+2211, American Folklore
+2299, American Media (publisher)
+2357, American Football League
+2386, American Airlines
+2472, American Quarter Horse
+2561, American political scandals
+2647, American indian
+2659, American war of independence
+2799, American Registry for Internet Numbers
+2856, Latin American Integration Association
+2863, American Telephone and Telegraph Company
+2977, American sign language
+3068, Islamic conquest of Afghanistan
+3260, America Islands
+3861, American League Championship Series
+3862, American League Division Series
+4166, Bill Walsh (American football coach)
+4218, North American B-25 Mitchell
+6121, Central America
+6684, Communications in Afghanistan
+7023, Confederate States of America
+7082, Central American Court of Justice
+7729, Captain America
+9058, European influence in Afghanistan
+9060, Dost Mohammed and the British in Afghanistan
+9465, English language/American English
+9734, The American Prisoner
+9895, Economy of Afghanistan
